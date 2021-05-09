@@ -1,0 +1,14 @@
+*/target/*
+*/target/**
+
+# Eclipse Core      
+.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
+/target/
+
+# TestNG specific
+*/test-output/*
+*/test-output/**
+/test-output/
